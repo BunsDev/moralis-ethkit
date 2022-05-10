@@ -1,4 +1,6 @@
-# `ethereum-boilerplate`
+# `ethkit (Cross chain support via Moralis)`
+
+## `NOTE: TypeScript version of this repo is WIP`
 
 > React components and hooks for fast building dApps without running own backend
 
